@@ -1,0 +1,11 @@
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\bin\Debug\Zavedenie.exe.config
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\bin\Debug\Zavedenie.exe
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\bin\Debug\Zavedenie.pdb
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.csproj.AssemblyReference.cache
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.Form1.resources
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.Form2.resources
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.Properties.Resources.resources
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.csproj.GenerateResource.cache
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.csproj.CoreCompileInputs.cache
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.exe
+C:\Users\minev\OneDrive\Desktop\PROJECTS HW\Zavedenie\Zavedenie\Zavedenie\obj\Debug\Zavedenie.pdb
